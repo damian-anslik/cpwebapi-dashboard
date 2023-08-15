@@ -1,0 +1,8 @@
+keys
+venv
+*.pyc
+*cache*
+*.log
+*.xlsx
+*.json
+*.csv
